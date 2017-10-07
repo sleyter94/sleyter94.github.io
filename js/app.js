@@ -9,7 +9,7 @@ app.config(function($routeProvider){
 		templateUrl:'content/nosotros.html'
 	})
 	.when("/propuesta-empresarial",{
-		templateUrl:'contentpr/opuesta-empresarial.html'
+		templateUrl:'content/propuesta-empresarial.html'
 	})
 	.when("/hoja-de-vida",{
 		templateUrl:'content/hoja-de-vida.html'
