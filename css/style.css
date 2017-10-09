@@ -131,7 +131,9 @@ color:          #5A5A5A;
 .menu_item{
 	background: rgba(43,108,163,1) url(../img/menu_bg.png) center center repeat-x;
     color:#FFF !important;
-    font-size:23px;
+    font-size:18px;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
 }
 
 .menu_subitem{
